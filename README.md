@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kasviii">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Kasvi%20here%2C%20welcome%20to%20my%20corner%20of%20github" alt="Hiii, Kasvi here" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hiii%20Kasvi%2C%20here" alt="Hiii, Kasvi here" />
   </a>
 </p>
 
