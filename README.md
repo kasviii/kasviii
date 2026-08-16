@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/kasviii">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hiii%20Kasvi%2C%20here" alt="Hiii, Kasvi here" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hi%2C%20Kasvi%20here" alt="Hi, Kasvi here" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=865&height=44&lines=I%20build%20things%20and%20break%20things%20(not%20really%20on%20purpose);Open%20to%20collaborating%20on%20cool%20projects" alt="Typing headlines" />
 </p>
