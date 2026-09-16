@@ -3,8 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hi%2C%20Kasvi%20here" alt="Hi, Kasvi here" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=865&height=44&lines=I%20build%20things%20and%20break%20things%20(not%20really%20on%20purpose);Open%20to%20collaborating%20on%20cool%20projects" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=865&height=44&lines=Building%2C%20learning%2C%20and%20figuring%20things%20out;Always%20curious%20about%20what%20I%20can%20make" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -12,7 +13,7 @@
 Computer science student exploring AI, ML, DL and everything in between. I build stuff, learn stuff, and mostly sleep.
 
 🔭 &nbsp;I'm currently working on **a few side projects I'm definitely not procrastinating on**  
-🌱 &nbsp;I'm currently learning **how to write code my future self won't hate and to rely less on claude**  
+🌱 &nbsp;I'm currently learning **how to write code my future self won't hate and to rely less on Claude**  
 👯 &nbsp;I'm looking to collaborate on **open-source projects, AI tools, or anything genuinely interesting**
 
 ### 🛠️ Tech Stack
@@ -44,26 +45,26 @@ Computer science student exploring AI, ML, DL and everything in between. I build
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kasvi-rajwar-85747228a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kasvi-rajwar-85747228a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kasviii&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kasviii&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kasviii&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=kasviii&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=kasviii&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/kasviii">kasviii</a></i></p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/kasviii">kasviii</a></i>
+</p>
 
 Most of my repositories are experiments, prototypes, or coursework-based
 projects where the focus is on learning, iteration, and clarity rather than
 production-level polish.
 
+---
