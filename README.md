@@ -1,16 +1,8 @@
-<p align="center">
-  <a href="https://github.com/kasviii">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hi%2C%20Kasvi%20here" alt="Hi, Kasvi here" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=865&height=44&lines=Building%2C%20learning%2C%20and%20figuring%20things%20out;Always%20curious%20about%20what%20I%20can%20make" alt="Typing headlines" />
-</p>
 
-### 🚀 About Me
+# Hi, I'm Kasvi!
 
-Computer science student exploring AI, ML, DL and everything in between. I build stuff, learn stuff, and mostly sleep.
+I am a Computer science student exploring AI, ML, DL and everything in between. I build stuff, learn stuff, and mostly sleep.
 
 🔭 &nbsp;I'm currently working on **a few side projects I'm definitely not procrastinating on**  
 🌱 &nbsp;I'm currently learning **how to write code my future self won't hate and to rely less on Claude**  
